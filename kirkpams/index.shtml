@@ -1,0 +1,296 @@
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml">
+
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Language" content="en-us" />
+  <meta http-equiv="Content-Script-Type" content="text/javascript" />
+  <title>Michael S. Kirkpatrick</title>
+  <link rel="shortcut icon" href="/kirkpams/favicon.ico" type="image/x-icon" />
+  
+  <link rel="stylesheet" type="text/css" href="/kirkpams/styles.css" title="Style Sheet" />
+  
+  <script src="/bowersjc/scripts/jquery-3.1.0.js"></script>
+
+</head>
+<body class="Top">
+
+<center>
+<div class="Main">
+<div class="Menu">
+
+<!-- NOTE: The production server requires variables in expressions as $"..." whereas the
+  dev server requires v("..."). Do NOT upload this file because of this. -->
+
+<table class="Menu">
+  <tr>
+    <td class="Menu"><a href="/kirkpams/index.shtml" class="Menu">Home</a></td>
+    <td class="Menu"><a href="/kirkpams/calendar.shtml" class="Menu">Calendar</a></td>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <td class="Menu"><a href="/kirkpams/teaching.shtml" class="Menu">Teaching</a></td>
+    
+    
+    <td class="Menu"><a href="/kirkpams/research.shtml" class="Menu">Research</a></td>
+    
+    
+    <td class="Menu"><a href="/kirkpams/advising.shtml" class="Menu">Advising</a></td>
+    
+    
+    <td class="Menu"><a href="/kirkpams/cope.shtml" class="Menu">COPE</a></td>
+    
+    
+    <td class="Menu"><a href="/kirkpams/personal.shtml" class="Menu">Personal</a></td>
+    
+  </tr>
+</table>
+</div>
+<div class="Content">
+
+<!-- End of header...main page content below -->
+
+
+<table cellspacing="0" cellpadding="0" width="100%"><tr><td>
+<span class="Title">Michael S. Kirkpatrick</span><hr />
+<p>
+Associate Professor, Department of Computer Science<br />
+Faculty Associate, Center for Faculty Innovation<br />
+James Madison University<br />
+701 Carrier Drive<br />
+MSC 4103<br />
+Harrisonburg, VA 22807<br />
+<br />
+E-mail: kirkpams@jmu.edu<br />
+Twitter: <a href="https://twitter.com/kirkpams/">@kirkpams</a><br />
+Phone: 540-568-3371<br />
+Office: CS/ISAT 223<br />
+<br />
+Current and future teaching:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="240/f18/">CS 240: Data Structures and Algorithms</a> (Fall 2018)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;CS 361: Computer Systems II (Spring 2019)<br />
+<br />
+My C.V. is available <a href="MichaelKirkpatrickCV.pdf">here</a>.<br />
+</p>
+
+</td>
+<td><img src="images/cise_portrait-f15.jpg" height="275" align="right" alt="Portrait" /></td>
+</tr></table>
+
+<div class="Section">Recent Talks</div>
+<p>
+Here are slides from recent talks that I have given. Note that I use Keynote
+exclusively, so that is the best format to download (if you're a Mac user).
+Powerpoint and PDF versions are also available, but may not be as nice.
+</p>
+
+<ul>
+    <li>"Meltdown and Spectre: Complexity and the Death of Security," College and University Auditors of Virginia
+        [<a href="talks/MeltdownSpectre-CUAV.key">Keynote</a>
+        | <a href="talks/MeltdownSpectre-CUAV.pptx">PPT</a>
+        | <a href="talks/MeltdownSpectre-CUAV.pdf">PDF</a>]</li>
+    <!--
+    <li>"Meltdown and Spectre: Complexity and the Death of Security," JMU CS Research Talk
+        [<a href="talks/meltdown-spectre-jan18.key">Keynote</a>
+        | <a href="talks/meltdown-spectre-jan18.pptx">PPT</a>
+        | <a href="talks/meltdown-spectre-jan18.pdf">PDF</a>]</li>
+    -->
+    <li>"Active Learning 101: Why and How to Get Started," JMU CFI New Faculty Orientation 2017
+        [<a href="talks/cfi-nfo17-active_learning.pdf">PDF slides</a>
+         |<a href="talks/cfi-nfo17-active_learning_cats.pdf">CATs</a>]</li>
+    <li>"When is Too Much Not Enough? Using Cognitive Theories of Learning to Shape Instructional
+        Choices," JMU CFI May Symposium 2017 [<a href="talks/cfi-may17-cognitive_learning.key">Keynote</a>
+        | <a href="talks/cfi-may17-cognitive_learning.pptx">PPT</a>
+        | <a href="talks/cfi-may17-cognitive_learning.pdf">PDF</a>]</li>
+    <li>"Where We've Been and Where We Are: Implications for Diversity in Computing,"
+        CAPWIC 2017 [<a href="talks/capwic17-diversity.key">Keynote</a>
+        | <a href="talks/capwic17-diversity.pptx">PPT</a>
+        | <a href="talks/capwic17-diversity.pdf">PDF</a>]</li>
+    <li>"Student Perspectives of TBL in a CS Course: Summary of Qualitative Findings,"
+        SIGCSE 2017 [<a href="talks/sigcse17-tbl.key">Keynote</a>
+        | <a href="talks/sigcse17-tbl.pptx">PPT</a>
+        | <a href="talks/sigcse17-tbl.pdf">PDF</a>]</li>
+    <li>"Evaluating an Alternative CS1 for Students with Prior Programming Experience,"
+        SIGCSE 2017 [<a href="talks/sigcse17-cs1.key">Keynote</a>
+        | <a href="talks/sigcse17-cs1.pptx">PPT</a>
+        | <a href="talks/sigcse17-cs1.pdf">PDF</a>]</li>
+    <li>"Strategies for Integrating Driverless Cars into the Computing Curricula,"
+        SIGCSE 2017 [Sample exercise: <a href="talks/sigcse17-cars.key">Keynote</a>
+        | <a href="talks/sigcse17-cars.pptx">PPT</a>
+        | <a href="talks/sigcse17-cars.pdf">PDF</a>]</li>
+    <li>"Teaching Fast and Slow: Using Peer Instruction for Active
+        Learning," JMU CFI May Symposium 2016 [<a href="talks/cfi-may16-teaching_fast_and_slow.key">Keynote</a>
+        | <a href="talks/cfi-may16-teaching_fast_and_slow.pptx">PPT</a>
+        | <a href="talks/cfi-may16-teaching_fast_and_slow.pdf">PDF</a>]</li>
+    <li>"Women in Computing," guest lecture for JMU ISAT 485 (Gender Issues in
+        Science) [<a href="talks/gender16.key">Keynote</a>
+        | <a href="talks/gender16.pptx">PPT</a>
+        | <a href="talks/gender16.pdf">PDF</a>]</li>
+    <li>"Using the Readiness Assurance Process and Metacognition in an
+        Operating Systems Course," ITiCSE 2015 [<a href="talks/iticse15-rapmeta.key">Keynote</a>
+        | <a href="talks/iticse15-rapmeta.ppt">PPT</a>
+        | <a href="talks/iticse15-rapmeta.pdf">PDF</a>]</li>
+    <li>"Technology for Content Delivery, Formative Assessment, and Reflection,"
+        Bridgewater College Annual Pedagogy Project 2015 [<a href="talks/bridgewater-app15.key">Keynote</a>
+        | <a href="talks/bridgewater-app15.ppt">PPT</a>
+        | <a href="talks/bridgewater-app15.pdf">PDF</a>]</li>
+    <li>"Wading through the Pedagogy Alphabet Soup,"
+        JMU CFI May Symposium 2015 [<a href="talks/cfi-may15-pedagogy.key">Keynote</a>
+        | <a href="talks/cfi-may15-pedagogy.ppt">PPT</a>
+        | <a href="talks/cfi-may15-pedagogy.pdf">PDF</a>]</li>
+    <li>"Addressing the Diversity Crisis in Computing," JMU Annual Diversity
+        Conference 2015 [<a href="talks/diversity15.key">Keynote</a>
+        | <a href="talks/diversity15.ppt">PPT</a>
+        | <a href="talks/diversity15.pdf">PDF</a>]</li>
+    <li>"Backward Design: An Integrated Approach to a Systems Curriculum,"
+        SIGCSE 2015 [<a href="talks/sigcse15-backward.key">Keynote</a>
+        | <a href="talks/sigcse15-backward.ppt">PPT</a>
+        | <a href="talks/sigcse15-backward.pdf">PDF</a>]</li>
+    <li>"Best Practices for IRB Approval: Four Perspectives," SIGCSE 2015
+        [<a href="talks/sigcse15-irb.key">Keynote</a>
+        | <a href="talks/sigcse15-irb.ppt">PPT</a>
+        | <a href="talks/sigcse15-irb.pdf">PDF</a>]</li>
+    <li>"Women in Computing," guest lecture for JMU ISAT 485 (Gender Issues in
+        Science) [<a href="talks/gender14.key">Keynote</a>
+        | <a href="talks/gender14.ppt">PPT</a>
+        | <a href="talks/gender14.pdf">PDF</a>]</li>
+</ul>
+
+<br />
+
+<div class="Section">Repositories</div>
+<p>
+I have a couple of on-going projects related to CS education research
+and curriculum design. Resources related to these projects can be accessed at
+the following Github link:
+</p>
+
+<ul>
+    <li><a href="http://github.com/kirkpams/JMU-CS-Systems/">Systems
+        fundamentals curriculum design</a></li>
+</ul>
+
+<br />
+
+<div class="Section">Interests &amp; Memberships</div>
+
+<p>
+My research interests revolve around one central question: <b>What is the most
+effective way to teach students how to design and implement secure and robust
+systems that will benefit society?</b> This question illustrates how my
+interests apply a human-centered focus on complex technical issues. From a
+purely technical standpoint, my current or previous work has involved the
+following areas:
+</p>
+
+<ul>
+  <li>Systems programming</li>
+  <li>Operating systems &amp; virtualization</li>
+  <li>Embedded &amp; cyber-physical systems</li>
+  <li>Information security (primarily access control and applied cryptography)</li>
+  <li>Hardware and CPU architecture</li>
+</ul>
+
+<p>
+As an educator, I am interested in improving the learning outcomes of
+undergraduates in these areas by integrating metacognition and constructivist
+pedagogy into upper-divisional systems courses. At the same time, I believe it
+is vital to address the societal and ethical impact of computing, including
+efforts to broaden participation in computing. As such, my recent work has
+focused on the following areas:
+</p>
+
+<ul>
+  <li>Collaborative and active learning pedagogy</li>
+  <li>Empirical research methods in CS education (<i>e.g.,</i> mixed methods,
+    grounded theory, design-based research)</li>
+  <li>Broadening participation of women and underrepresented minorities in
+    computing</li>
+  <li>Societal and ethical issues in computing</li>
+</ul>
+
+<p>
+As part of this work, I am currently serving as a Faculty Associate in the
+<a href="http://www.jmu.edu/cfi">JMU Center for Faculty Innovation</a> and as
+a member of the <a href="https://ethics.acm.org/">ACM Committee on
+  Professional Ethics</a>. In addition, I am a current or former member of the
+following organizations and special interest groups (SIGs):
+</p>
+
+<ul>
+  <li><a href="http://www.acm.org/">Association for Computing Machinery (ACM)</a></li>
+  <li><a href="http://www.computer.org/portal/web/guest/home">IEEE Computer Society</a></li>
+  <li><a href="http://www.sigcse.org/">Computer Science Education (SIGCSE)</a></li>
+  <li><a href="http://www.sigcas.org/">Computers &amp; Society (SIGCAS)</a></li>
+  <li><a href="http://women.acm.org/">ACM-W</a></li>
+  <li><a href="http://www.sigbed.org/">Embedded Systems (SIGBED)</a> - former, not currently active</li>
+  <li><a href="http://www.sigops.org/">Operating Systems (SIGOPS)</a> - former, not currently active</li>
+  <li><a href="http://www.sigsac.org/">Security, Audit, and Control (SIGSAC)</a> - former, not currently active</li>
+</ul>
+
+<br />
+
+<div class="Section">Education</div>
+<p>
+Ph.D., Computer Science, Purdue University, 2011
+</p>
+<ul>
+  <li>Dissertation:  "Trusted Enforcement of Contextual Access Control"</li>
+  <li>Adviser:  Elisa Bertino</li>
+  <li>Committee:  Mikhail Atallah, Ninghui Li, and Dongyan Xu</li>
+</ul>
+
+<hr width="50%" />
+<p>
+M.S., Computer Science &amp; Engineering, Michigan State University, 2007
+</p>
+<ul>
+  <li>Thesis:  "Canary Bit:  Extending Secure Bit for Data Pointer Protection from Buffer
+    Overflow Attacks"</li>
+  <li>Adviser:  Richard Enbody</li>
+  <li>Committee:  Anthony Wojcik and Wayne Dyksen</li>
+</ul>
+
+<hr width="50%" />
+<p>
+B.A., Mathematics &amp; Computer Science Indiana University, 2001
+</p>
+<ul>
+  <li>Minor:  Religious Studies</li>
+</ul>
+
+<br />
+
+<!-- End of main page content...what follows is the footer -->
+
+
+<div class="Section">Last Updated: August 03, 2018</div>
+
+</div>
+</div>
+</center>
+
+<!--
+<center><a href="http://www.google.com/chrome/" class="ImgLink"><img src="/kirkpams/images/chrome_logo.gif" alt="Best
+  viewed with Google Chrome" border="0" height="31" /></a><a href="http://validator.w3.org/check?uri=referer" 
+  class="ImgLink"><img src="/kirkpams/images/valid-xhtml10.png" alt="Valid XHTML 1.0!" border="0"
+  height="31" width="88" /></a></center><br />
+-->
+
+</body>
+</html>
+

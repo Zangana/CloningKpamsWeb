@@ -1,0 +1,140 @@
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml">
+
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Language" content="en-us" />
+  <meta http-equiv="Content-Script-Type" content="text/javascript" />
+  <title>Michael S. Kirkpatrick</title>
+  <link rel="shortcut icon" href="/kirkpams/favicon.ico" type="image/x-icon" />
+  
+  <link rel="stylesheet" type="text/css" href="/kirkpams/styles.css" title="Style Sheet" />
+  
+  <script src="/bowersjc/scripts/jquery-3.1.0.js"></script>
+
+</head>
+<body class="Top">
+
+<center>
+<div class="Main">
+<div class="Menu">
+
+<!-- NOTE: The production server requires variables in expressions as $"..." whereas the
+  dev server requires v("..."). Do NOT upload this file because of this. -->
+
+<table class="Menu">
+  <tr>
+    <td class="Menu"><a href="/kirkpams/index.shtml" class="Menu">Home</a></td>
+    <td class="Menu"><a href="/kirkpams/calendar.shtml" class="Menu">Calendar</a></td>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <td class="Menu"><a href="/kirkpams/teaching.shtml" class="Menu">Teaching</a></td>
+    
+    
+    <td class="Menu"><a href="/kirkpams/research.shtml" class="Menu">Research</a></td>
+    
+    
+    <td class="Menu"><a href="/kirkpams/advising.shtml" class="Menu">Advising</a></td>
+    
+    
+    <td class="Menu"><a href="/kirkpams/cope.shtml" class="Menu">COPE</a></td>
+    
+    
+    <td class="Menu"><a href="/kirkpams/personal.shtml" class="Menu">Personal</a></td>
+    
+  </tr>
+</table>
+</div>
+<div class="Content">
+
+<!-- End of header...main page content below -->
+
+
+<h2>ACM Committee on Professional Ethics</h2>
+
+<p>
+The following documents are drafts of case studies to use with the
+<a href="http://www.acm.org/about-acm/code-of-ethics">ACM Code of Ethics</a>.
+The goal for these case studies is to develop materials that can be used to
+integrate ethical reasoning skills into mainstream Computer Science courses,
+such as Operating Systems or Databases. All materials are free to use and
+adapt according to the terms of the
+<a href="https://opensource.org/licenses/MIT">MIT License</a>.
+</p>
+
+<p>
+<b>Disclaimer:</b> Many of these case studies are inspired by real events. The
+case narratives may include slightly altered or exaggerated versions of events
+for the purposes of increasing the discussion. These alterations are
+<b><u>NOT</u></b> intended as endorsements of one particular view and should
+not be construed as such.
+</p>
+
+<hr />
+
+<dl>
+  <dt><b>Bypassing Security Mechanisms to Unlock a Mobile Device</b></dt>
+  <dd>This case examines technical and legal issues that arose relating to
+  the U.S. Department of Justice filing a motion to compel Apple to produce a
+  firmware upgrade that would bypass the security mechanism of an iPhone.<br /><br />
+  Intended course audience: Operating Systems, Information Security<br />
+  [<a href="cope/BypassingSecurityMechanisms.docx">DOCX</a> | 
+   <a href="cope/BypassingSecurityMechanisms.pages">Pages</a> |
+   <a href="cope/BypassingSecurityMechanisms.pdf">PDF</a>]<br /><br />
+  </dd>
+
+  <hr />
+
+  <dt><b>Pre-election Voter Database Purge</b></dt>
+  <dd>This case examines technical and legal issues that arose relating to
+  purging convicted felons from a voter registration database due to a state
+  law that declares felons ineligible to vote.<br /><br />
+  Intended course audience: Databases<br />
+  [<a href="cope/VoterDatabasePurge.docx">DOCX</a> | 
+   <a href="cope/VoterDatabasePurge.pages">Pages</a> |
+   <a href="cope/VoterDatabasePurge.pdf">PDF</a>]<br /><br />
+  </dd>
+
+  <hr />
+
+  <dt><b>Case study template</b></dt>
+  <dd>This file contains the template used as the basis for the case studies.<br />
+  [<a href="cope/CaseStudyTemplate.docx">DOCX</a> | 
+   <a href="cope/CaseStudyTemplate.pages">Pages</a>]<br /><br />
+  </dd>
+</dl>
+
+<!-- End of main page content...what follows is the footer -->
+
+
+<div class="Section">Last Updated: October 07, 2017</div>
+
+</div>
+</div>
+</center>
+
+<!--
+<center><a href="http://www.google.com/chrome/" class="ImgLink"><img src="/kirkpams/images/chrome_logo.gif" alt="Best
+  viewed with Google Chrome" border="0" height="31" /></a><a href="http://validator.w3.org/check?uri=referer" 
+  class="ImgLink"><img src="/kirkpams/images/valid-xhtml10.png" alt="Valid XHTML 1.0!" border="0"
+  height="31" width="88" /></a></center><br />
+-->
+
+</body>
+</html>
+

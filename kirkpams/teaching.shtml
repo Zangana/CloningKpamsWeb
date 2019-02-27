@@ -1,0 +1,306 @@
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml">
+
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Language" content="en-us" />
+  <meta http-equiv="Content-Script-Type" content="text/javascript" />
+  <title>Michael S. Kirkpatrick</title>
+  <link rel="shortcut icon" href="/kirkpams/favicon.ico" type="image/x-icon" />
+  
+  <link rel="stylesheet" type="text/css" href="/kirkpams/styles.css" title="Style Sheet" />
+  
+  <script src="/bowersjc/scripts/jquery-3.1.0.js"></script>
+
+</head>
+<body class="Top">
+
+<center>
+<div class="Main">
+<div class="Menu">
+
+<!-- NOTE: The production server requires variables in expressions as $"..." whereas the
+  dev server requires v("..."). Do NOT upload this file because of this. -->
+
+<table class="Menu">
+  <tr>
+    <td class="Menu"><a href="/kirkpams/index.shtml" class="Menu">Home</a></td>
+    <td class="Menu"><a href="/kirkpams/calendar.shtml" class="Menu">Calendar</a></td>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <td class="Menu"><a href="/kirkpams/teaching.shtml" class="Menu">Teaching</a></td>
+    
+    
+    <td class="Menu"><a href="/kirkpams/research.shtml" class="Menu">Research</a></td>
+    
+    
+    <td class="Menu"><a href="/kirkpams/advising.shtml" class="Menu">Advising</a></td>
+    
+    
+    <td class="Menu"><a href="/kirkpams/cope.shtml" class="Menu">COPE</a></td>
+    
+    
+    <td class="Menu"><a href="/kirkpams/personal.shtml" class="Menu">Personal</a></td>
+    
+  </tr>
+</table>
+</div>
+<div class="Content">
+
+<!-- End of header...main page content below -->
+
+
+<p>
+I primarily teach courses in the area of computer systems and systems
+programming. CS 261-361 (Computer Systems I-II) form a breadth-first survey of
+computer systems, including assembly language, high-level language translation
+and linking, von Neumann architecture, processes and OS principles, concurrency,
+and networking. After this sequence, I also regulary teach courses in Operating
+Systems implementation (undergraduate and graduate). Students can choose other
+advanced systems courses in (currently) Compilers, Parallel &amp; Distributed
+Systems, and CPU Architecture.
+</p>
+
+<p>
+I am also interested in the relationship between people and computer systems,
+and I teach courses that examine different aspects of this relationship. Topics
+in my elective courses include safety in cyber-physical systems, model checking
+and verification, electronic voting, intellectual property, privacy, and
+gender/racial discrimination in computing.
+</p>
+
+<div class="Section">Course Page Archive</div>
+
+<table width="100%">
+  <tr>
+    <td colspan="5" class="CourseInst">Primary JMU Courses</td>
+  </tr>
+
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="2"><a
+        href="http://www.jmu.edu/catalog/16/courses/CS.shtml#CS240">CS
+        240</a>: <b>Data Structures</b></td>
+  </tr>
+
+  <tr>
+    <td>&nbsp;</td> <td>&nbsp;</td>
+    <td>
+      <a href="archive/240/s18/">Spring 2018</a><br />
+      <a href="archive/240-f17/">Fall 2017</a><br />
+      <a href="archive/240-s17/">Spring 2017</a></td>
+  </tr>
+
+  <tr><td>&nbsp;</td></tr>
+
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="2"><a
+        href="http://www.jmu.edu/catalog/16/courses/CS.shtml#CS261">CS
+        261</a>: <b>Computer Systems I</b></td>
+    <td>&nbsp;</td>
+    <td colspan="2"><a
+        href="http://www.jmu.edu/catalog/16/courses/CS.shtml#CS361">CS
+        361</a>: <b>Computer Systems II</b></td>
+  </tr>
+
+  <!-- This grouping establishes the widths -->
+  <tr>
+    <td width="5%">&nbsp;</td> <td width="5%">&nbsp;</td>
+    <td width="35%">
+      <a href="archive/261-s17/">Spring 2017</a><br />
+      <a href="archive/261-s16/">Spring 2016</a></td>
+    <td width="7%">&nbsp;</td> <td width="5%">&nbsp;</td>
+    <td>
+      <a href="archive/361-f17/">Fall 2017</a><br />
+      <a href="archive/361-f16/">Fall 2016</a></td>
+    </td>
+  </tr>
+  <!-- End of width establishment -->
+
+  <tr><td>&nbsp;</td></tr>
+
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="2"><a
+        href="http://www.jmu.edu/catalog/16/courses/CS.shtml#CS450">CS
+        450</a>: <b>Operating Systems</b></td>
+    <td>&nbsp;</td>
+    <td colspan="2"><a
+        href="http://www.jmu.edu/catalog/16/courses/CS.shtml#CS550">CS
+        550</a>: <b>Operating Systems (graduate)</b></td>
+  </tr>
+
+  <tr>
+    <td>&nbsp;</td> <td>&nbsp;</td>
+    <td>
+      <a href="archive/450-f15/">Fall 2015</a><br />
+      <a href="archive/450-f14/">Fall 2014</a><br />
+      <a href="archive/450-f13/">Fall 2013</a><br />
+      <a href="archive/450-f12/">Fall 2012</a><br />
+      <a href="archive/450-f11/">Fall 2011</a></td>
+    <td colspan="2">&nbsp;</td>
+    <td>
+      <a href="archive/550-f15/">Fall 2015</a><br />
+      <a href="archive/550-f14/">Fall 2014</a><br />
+      <a href="archive/550-f13/">Fall 2013</a><br />
+      <a href="archive/550-f12/">Fall 2012</a><br />
+    </td>
+  </tr>
+
+  <tr><td>&nbsp;</td></tr>
+  <tr><td colspan="7"><hr /></td></tr>
+
+  <tr>
+    <td colspan="5" class="CourseInst">Former and Elective JMU Courses</td>
+  </tr>
+
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="2"><a
+        href="http://www.jmu.edu/catalog/16/courses/CS.shtml#CS280">CS
+        280</a>: <b>Data Analysis in R</b></td>
+    <td>&nbsp;</td>
+    <td colspan="2"><a
+        href="http://www.jmu.edu/catalog/16/courses/CS.shtml#CS330">CS
+        330</a>: <b>Societal and Ethical Issues in Computing</b></td>
+  </tr>
+
+  <tr>
+    <td>&nbsp;</td> <td>&nbsp;</td>
+    <td><a href="http://www.jmu.edu/wintersession/">Winter 2017</a></td>
+    <td colspan="2">&nbsp;</td>
+    <td><a href="archive/330-f15/">Fall 2015</a></td>
+  </tr>
+
+  <tr><td>&nbsp;</td></tr>
+
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="2"><a
+        href="http://www.jmu.edu/catalog/16/courses/CS.shtml#CS480">CS
+        480</a>: <b>Embedded Systems</b></td>
+    <td>&nbsp;</td>
+    <td colspan="2"><a
+        href="http://www.jmu.edu/catalog/16/courses/CS.shtml#CS685">CS
+        685</a>: <b>Embedded Systems (graduate)</b></td>
+  </tr>
+
+  <tr>
+    <td>&nbsp;</td> <td>&nbsp;</td>
+    <td>
+      <a href="archive/480-s14/">Spring 2014</a><br />
+      <a href="archive/480-f16/">Fall 2016</a></td>
+    <td colspan="2">&nbsp;</td>
+    <td>
+      <a href="archive/685-s15/">Spring 2015</a><br />
+      <a href="archive/480-s15/">Spring 2014</a></td>
+  </tr>
+
+  <tr><td>&nbsp;</td></tr>
+
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="2"><a
+        href="http://www.jmu.edu/catalog/16/courses/CS.shtml#CS652">CS
+        652</a>: <b>Formal Methods in Information Security</b></td>
+    <td>&nbsp;</td>
+    <td colspan="2"><a
+        href="http://www.jmu.edu/catalog/15/courses/CS.shtml#CS350">CS
+        350</a>: <b>Computer Organization (retired)</b></td>
+  </tr>
+
+  <tr>
+    <td>&nbsp;</td> <td>&nbsp;</td>
+    <td><a href="archive/652-s13/">Spring 2013</a></td>
+    <td colspan="2">&nbsp;</td>
+    <td>
+      <a href="archive/350-s15/">Spring 2015</a><br />
+      <a href="archive/350-s14/">Spring 2014</a><br />
+      <a href="archive/350-s13/">Spring 2013</a><br />
+      <a href="archive/350-s12/">Spring 2012</a></td>
+    </td>
+  </tr>
+
+  <tr><td>&nbsp;</td></tr>
+  <tr><td colspan="7"><hr /></td></tr>
+
+  <tr>
+    <td colspan="4" class="CourseInst">Purdue University Courses</td>
+  </tr>
+
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="2"><a
+        href="http://www.cs.purdue.edu/academic_programs/courses/canonical_syllabi/cs182.shtml">CS
+        182</a>: <b>Foundations of Computer Science</b></td>
+    <td>&nbsp;</td>
+    <td colspan="2"><a
+        href="http://www.math.purdue.edu/academic/courses/MA15200/">MA
+        152</a>: <b>College Algebra</b></td>
+  </tr>
+
+  <tr>
+    <td>&nbsp;</td> <td>&nbsp;</td>
+    <td>Fall 2010</td>
+    <td colspan="2">&nbsp;</td>
+    <td>Spring 2009</td>
+  </tr>
+
+  <tr><td>&nbsp;</td></tr>
+
+  <!--
+  <tr>
+    <td>&nbsp;</td> <td><b>Fall 2010</b></td> <td>&nbsp;</td>
+    <td>Foundations of Computer Science</td>
+  </tr>
+  <tr><td style="font-size:6px;">&nbsp;</td></tr>
+  <tr>
+    <td>&nbsp;</td> <td><b>Spring 2009</b></td> <td>&nbsp;</td>
+    <td><a href="http://www.math.purdue.edu/academic/courses/MA15200/">MA 152</a>:</td>
+    <td>College Algebra</td>
+  </tr>
+-->
+</table>
+
+<div class="Section">Certifications</div>
+
+<p>
+<a href="http://www.cie.purdue.edu/">Purdue University Center for Instructional Excellence</a>
+<a href="http://www.cie.purdue.edu/gradtadev/index.cfm?category=gtc">Graduate Teacher Certification (GTC)</a>, 2010<br />
+</p>
+
+<!-- End of main page content...what follows is the footer -->
+
+
+<div class="Section">Last Updated: August 03, 2018</div>
+
+</div>
+</div>
+</center>
+
+<!--
+<center><a href="http://www.google.com/chrome/" class="ImgLink"><img src="/kirkpams/images/chrome_logo.gif" alt="Best
+  viewed with Google Chrome" border="0" height="31" /></a><a href="http://validator.w3.org/check?uri=referer" 
+  class="ImgLink"><img src="/kirkpams/images/valid-xhtml10.png" alt="Valid XHTML 1.0!" border="0"
+  height="31" width="88" /></a></center><br />
+-->
+
+</body>
+</html>
+
